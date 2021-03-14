@@ -1,1 +1,7 @@
-# fuckregex
+"match": [
+          {
+            "uri": {
+              "regex": "/srv/homebackend",
+            },
+          },
+        ],
